@@ -1,6 +1,6 @@
 # Efficient react form with context.
 
-The purpose of this project is to implement a form using react context\
+The purpose of this project is to implement a form using react context
 
 
 ## Features
@@ -8,5 +8,5 @@ The purpose of this project is to implement a form using react context\
 Validation as you type.\
 Validation before submitting form.\
 Per input field custom validators .\
-Efficient use of react context API.\
+Efficient use of react context API.
 
